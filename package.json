@@ -1,0 +1,40 @@
+{
+
+  "type":         "module",
+  "name":         "@teamcoder/arrayequalvalidator",
+  "version":      "1.0.0",
+  "description":  "This module is small but easy to use. The purpose of this module is to check if a array contains a value specified, it can optionally also do none case sensitive comparing.",
+  "main":         "arrayequalvalidator.js",
+
+  "keywords": [
+                  "value",
+                  "string",
+                  "number",
+                  "bigger",
+                  "equal",
+                  "validator",
+                  "node.js",
+                  "javascript"
+  ],
+
+  "author":       "CreepyCoderMC",
+  "license":      "CC-BY-NC-ND-4.0",
+  "homepage":     "https://github.com/CreepyCoderMC",
+  "url":          "https://github.com/CreepyCoderMC/arrayequalvalidator/issues",
+  "email":        "creepycodermc@gmail.com",
+
+  "funding": {
+    "type":       "PayPal Donation",
+    "url":        "https://www.paypal.com/donate/?hosted_button_id=NNPJXD2CLSXRA"
+  },
+
+  "repository": {
+    "type":       "git",
+    "url":        "https://github.com/CreepyCoderMC/arrayequalvalidator"
+  },
+
+  "scripts": {
+    "test":       "node test.js"
+  }
+
+}
