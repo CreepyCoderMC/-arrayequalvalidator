@@ -2,7 +2,7 @@
 
   "type":         "module",
   "name":         "@teamcoder/arrayequalvalidator",
-  "version":      "1.0.0",
+  "version":      "1.0.1",
   "description":  "This module is small but easy to use. The purpose of this module is to check if a array contains a value specified, it can optionally also do none case sensitive comparing.",
   "main":         "arrayequalvalidator.js",
 

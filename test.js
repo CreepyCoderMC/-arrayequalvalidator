@@ -1,4 +1,4 @@
-import { arrayEqual } from '@teamcoder/arrayequalvalidator.js';
+import { arrayEqual } from '@teamcoder/arrayequalvalidator';
 
 console.log( "Testing Condition  1 Passed = " + !arrayEqual( [ "Hallo" , "World" ] , "world" , true            ) );
 console.log( "Testing Condition  2 Passed = " + arrayEqual(  [ "Hallo" , "World" ] , "world" , false           ) );

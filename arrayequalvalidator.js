@@ -228,6 +228,7 @@
  /*     VERSION HISTORY
   *
   *     1.0.0       13 September 2022           Official first release
+  *     1.0.1       13 September 2022           test.js fixed
   */
 
  /* Validates if a source array contains target value
